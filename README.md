@@ -81,5 +81,6 @@ Você pode transformar esses arquivos em fases de um jogo:
 
 ## 👨‍💻 Autor
 
-Projeto criado por Reinaldo com apoio do Copilot.  
+Projeto criado por Reinaldo
+
 Feito com dedicação e criatividade em São Paulo, Brasil.
